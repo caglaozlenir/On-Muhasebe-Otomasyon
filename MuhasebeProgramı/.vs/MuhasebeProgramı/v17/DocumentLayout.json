@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00C7a\u011Fla \u00D6zlenir\\Desktop\\MuhasebeProgram\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B5C80C-5EA3-40ED-BF1F-7D349ADA53C8}|MuhasebeProg.csproj|c:\\users\\\u00E7a\u011Fla \u00F6zlenir\\desktop\\muhasebeprogram\u0131\\stokmodul\\frmstokkarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6B5C80C-5EA3-40ED-BF1F-7D349ADA53C8}|MuhasebeProg.csproj|solutionrelative:stokmodul\\frmstokkarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B5C80C-5EA3-40ED-BF1F-7D349ADA53C8}|MuhasebeProg.csproj|c:\\users\\\u00E7a\u011Fla \u00F6zlenir\\desktop\\muhasebeprogram\u0131\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6B5C80C-5EA3-40ED-BF1F-7D349ADA53C8}|MuhasebeProg.csproj|solutionrelative:anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B5C80C-5EA3-40ED-BF1F-7D349ADA53C8}|MuhasebeProg.csproj|c:\\users\\\u00E7a\u011Fla \u00F6zlenir\\desktop\\muhasebeprogram\u0131\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B5C80C-5EA3-40ED-BF1F-7D349ADA53C8}|MuhasebeProg.csproj|solutionrelative:anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B5C80C-5EA3-40ED-BF1F-7D349ADA53C8}|MuhasebeProg.csproj|c:\\users\\\u00E7a\u011Fla \u00F6zlenir\\desktop\\muhasebeprogram\u0131\\modul_fatura\\frmsatisfaturasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6B5C80C-5EA3-40ED-BF1F-7D349ADA53C8}|MuhasebeProg.csproj|solutionrelative:modul_fatura\\frmsatisfaturasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B5C80C-5EA3-40ED-BF1F-7D349ADA53C8}|MuhasebeProg.csproj|c:\\users\\\u00E7a\u011Fla \u00F6zlenir\\desktop\\muhasebeprogram\u0131\\modul_fatura\\frmfaturalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6B5C80C-5EA3-40ED-BF1F-7D349ADA53C8}|MuhasebeProg.csproj|solutionrelative:modul_fatura\\frmfaturalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B5C80C-5EA3-40ED-BF1F-7D349ADA53C8}|MuhasebeProg.csproj|c:\\users\\\u00E7a\u011Fla \u00F6zlenir\\desktop\\muhasebeprogram\u0131\\modul_cek\\frmbankayacekcikisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6B5C80C-5EA3-40ED-BF1F-7D349ADA53C8}|MuhasebeProg.csproj|solutionrelative:modul_cek\\frmbankayacekcikisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmStokKarti.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00C7a\u011Fla \u00D6zlenir\\Desktop\\MuhasebeProgram\u0131\\StokModul\\frmStokKarti.cs",
+              "RelativeDocumentMoniker": "StokModul\\frmStokKarti.cs",
+              "ToolTip": "C:\\Users\\\u00C7a\u011Fla \u00D6zlenir\\Desktop\\MuhasebeProgram\u0131\\StokModul\\frmStokKarti.cs [Design]",
+              "RelativeToolTip": "StokModul\\frmStokKarti.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:10:05.069Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C7a\u011Fla \u00D6zlenir\\Desktop\\MuhasebeProgram\u0131\\AnaForm.cs",
+              "RelativeDocumentMoniker": "AnaForm.cs",
+              "ToolTip": "C:\\Users\\\u00C7a\u011Fla \u00D6zlenir\\Desktop\\MuhasebeProgram\u0131\\AnaForm.cs",
+              "RelativeToolTip": "AnaForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:08:22.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00C7a\u011Fla \u00D6zlenir\\Desktop\\MuhasebeProgram\u0131\\AnaForm.cs",
+              "RelativeDocumentMoniker": "AnaForm.cs",
+              "ToolTip": "C:\\Users\\\u00C7a\u011Fla \u00D6zlenir\\Desktop\\MuhasebeProgram\u0131\\AnaForm.cs [Design]",
+              "RelativeToolTip": "AnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:08:10.616Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmSatisFaturasi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00C7a\u011Fla \u00D6zlenir\\Desktop\\MuhasebeProgram\u0131\\Modul_Fatura\\frmSatisFaturasi.cs",
+              "RelativeDocumentMoniker": "Modul_Fatura\\frmSatisFaturasi.cs",
+              "ToolTip": "C:\\Users\\\u00C7a\u011Fla \u00D6zlenir\\Desktop\\MuhasebeProgram\u0131\\Modul_Fatura\\frmSatisFaturasi.cs [Design]",
+              "RelativeToolTip": "Modul_Fatura\\frmSatisFaturasi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:02:41.408Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmFaturaListesi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00C7a\u011Fla \u00D6zlenir\\Desktop\\MuhasebeProgram\u0131\\Modul_Fatura\\frmFaturaListesi.cs",
+              "RelativeDocumentMoniker": "Modul_Fatura\\frmFaturaListesi.cs",
+              "ToolTip": "C:\\Users\\\u00C7a\u011Fla \u00D6zlenir\\Desktop\\MuhasebeProgram\u0131\\Modul_Fatura\\frmFaturaListesi.cs [Design]",
+              "RelativeToolTip": "Modul_Fatura\\frmFaturaListesi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:02:30.591Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBankayaCekCikisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00C7a\u011Fla \u00D6zlenir\\Desktop\\MuhasebeProgram\u0131\\Modul_Cek\\frmBankayaCekCikisi.cs",
+              "RelativeDocumentMoniker": "Modul_Cek\\frmBankayaCekCikisi.cs",
+              "ToolTip": "C:\\Users\\\u00C7a\u011Fla \u00D6zlenir\\Desktop\\MuhasebeProgram\u0131\\Modul_Cek\\frmBankayaCekCikisi.cs [Design]",
+              "RelativeToolTip": "Modul_Cek\\frmBankayaCekCikisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:02:12.471Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

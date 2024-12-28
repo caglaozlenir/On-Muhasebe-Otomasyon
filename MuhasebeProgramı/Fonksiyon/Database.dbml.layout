@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses1">
+  <DataContextMoniker Name="/DataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="510d5170-42da-4805-bba6-1751308c626b" isExpanded="false" absoluteBounds="2.625, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_CARIGRUPLARI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e648ae8c-5d97-459d-9900-783b4a3e0c92" absoluteBounds="2.64, 0.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3e5658c7-e718-4889-bb26-33249ab43f5a" isExpanded="false" absoluteBounds="2.625, 1.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_CARILER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9c7a1293-eb50-4053-90d4-e3e1ea9d94c9" absoluteBounds="2.64, 1.96, 1.9700000000000002, 4.8646240234375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7134e066-5da8-4984-9bd5-fbcb924c5c54" isExpanded="false" absoluteBounds="0.5, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_STOKGRUPLARI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b7783b71-e7e2-4bf9-bd5d-d908f668d31c" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ef1e6686-ae69-4b9c-8d65-5d6f32176608" isExpanded="false" absoluteBounds="0.5, 1, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_STOKLAR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b218836f-28d7-4f7d-a456-9e7e71219c46" absoluteBounds="0.51500000000000012, 1.46, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d8998b21-67cc-47f0-ba12-329bd580c387" isExpanded="false" absoluteBounds="2.625, 1, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_CARIHAREKETLERI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="76b17f00-73bd-4667-9c13-ba532b8f3873" absoluteBounds="2.64, 1.46, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="935f0631-f5e6-441e-9854-1f59b9039f6d" isExpanded="false" absoluteBounds="4.75, 1, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_KASAHAREKETLERI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="151a4e1a-6605-4c8a-9b76-8fad76190629" absoluteBounds="4.7650000000000006, 1.46, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3c906903-86b3-4e37-9538-c3919223f903" isExpanded="false" absoluteBounds="4.75, 1.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_KASALAR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="88aad9a1-2495-4ee2-88da-de45cef2288c" absoluteBounds="4.7650000000000006, 1.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e3b05796-eb2e-42e1-933c-90b2d592d3a2" isExpanded="false" absoluteBounds="4.75, 2, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/VW_KASAHAREKETLERI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f4f8f83a-904a-40fe-8c6d-1eb89cc10489" absoluteBounds="4.7650000000000006, 2.46, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5bfc3fa7-c124-4eb4-a856-02927dfd23e9" isExpanded="false" absoluteBounds="4.75, 2.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/VW_KASADURUM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0651b374-c71b-4104-8720-457abb3909f2" absoluteBounds="4.7650000000000006, 2.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="89a4867e-8e7e-4dc6-aee3-b42eb5c1765a" isExpanded="false" absoluteBounds="4.75, 3, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/VW_KASALISTESI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e351aa80-dff7-490b-87cb-8a7107fd7372" absoluteBounds="4.765, 3.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fa73e6f3-0f82-4356-9dcc-16379849363f" isExpanded="false" absoluteBounds="0.5, 3, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_BANKAHAREKETLERI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c582286f-b2e1-46b2-956e-093b9e967c88" absoluteBounds="0.51500000000000012, 3.46, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="27b63d4f-1263-412d-b76e-c8d5f1ee6432" isExpanded="false" absoluteBounds="0.5, 2.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_BANKALAR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="79735d7f-5a6b-483d-a532-3b6f1e43df27" absoluteBounds="0.51500000000000012, 2.96, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e002f746-cd71-4487-94fb-251b8ccc6e5f" isExpanded="false" absoluteBounds="0.5, 3.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/VW_BANKADURUM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="25dc779b-df5e-49ce-969d-89849ef5b7a4" absoluteBounds="0.51500000000000012, 3.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0b35e96c-e9c8-4d02-809f-6608ea949d85" isExpanded="false" absoluteBounds="0.5, 4, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/VW_BANKAHAREKETLERI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bf81ec04-a469-4097-95e9-3a71db44e848" absoluteBounds="0.51500000000000012, 4.46, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dc82b4b6-7f54-46d2-8cdb-2a120661ffe1" isExpanded="false" absoluteBounds="0.5, 4.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/VW_BANKALISTESI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a7fec3d6-6446-4312-9200-032f925ea890" absoluteBounds="0.51500000000000012, 4.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6e36cda3-744b-4129-b62a-201018df925d" isExpanded="false" absoluteBounds="7, 1, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_BORDROLAR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="03639c63-ddf1-4280-92ee-a4d1cb575cba" absoluteBounds="7.0150000000000006, 1.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ae72bacd-e291-4add-8081-14b8f6dd317e" isExpanded="false" absoluteBounds="7, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_CEKLER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="520a359c-0467-44af-970c-a36a06015233" absoluteBounds="7.0150000000000006, 0.96, 1.9700000000000002, 5.4415283203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="25ff7989-809f-4800-9c32-433878787fba" isExpanded="false" absoluteBounds="2.75, 4.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_FATURALAR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="008c0664-64d8-457e-899e-5ad70fb19b18" absoluteBounds="2.765, 4.96, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2befcb63-e099-4134-bd5a-2756bb0e49a5" isExpanded="false" absoluteBounds="2.75, 4, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_IRSALIYELER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="41d67a2a-a2da-4b7c-99cd-8cd34c461aaa" absoluteBounds="2.765, 4.46, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6bfc96a6-7a73-4ab0-b082-591ae8c7bbd5" isExpanded="false" absoluteBounds="2.75, 3.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_STOKHAREKETLERI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="30e8281f-73d3-4dcf-9571-494a4dc2522c" absoluteBounds="2.765, 3.96, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5b86f490-3d0a-4e62-877d-316cf3918ce0" isExpanded="false" absoluteBounds="2.75, 5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/VW_KALEMLER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eb802c04-659f-4259-8c34-b07da41a3952" absoluteBounds="2.7649999999999997, 5.46, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e9ae03e6-e608-43f3-b06a-1a702668fdd1" isExpanded="false" absoluteBounds="2.625, 2.5, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_KULLANICILAR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="acad9005-d6f6-4290-9a18-36aa45da0ef0" absoluteBounds="2.64, 2.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="61a83111-a221-489a-ada9-de739c6e80c3" isExpanded="false" absoluteBounds="7, 1.75, 2, 0.45">
+      <DataClassMoniker Name="/DataClasses1DataContext/TBL_GIRI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a4ef7470-a289-49af-8d53-b2a35fae5da9" absoluteBounds="7.0150000000000006, 2.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
